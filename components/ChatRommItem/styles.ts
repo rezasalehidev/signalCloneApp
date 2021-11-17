@@ -34,8 +34,8 @@ const styles = StyleSheet.create({
         justifyContent:'center',
         alignItems:'center',
         position: 'absolute',
-        right: 30,
-        top: 3,
+        left: 35,
+        top: -6,
         borderWidth:1,
         borderColor:'#fff'
       },
